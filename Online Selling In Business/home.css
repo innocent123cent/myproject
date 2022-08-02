@@ -1,0 +1,51 @@
+*{
+    
+    {
+
+        margin: 0;
+        padding: 0;
+        font-family: serif;
+    }
+    nav{
+        width: 100%;
+        background: green;
+        padding: 20px;
+    }
+    nav img{
+        width: 70px;
+        background-color: rgb(61, 207, 159);
+    }
+    a{
+        text-decoration: none;
+        color: white;
+        padding: 10px;
+    }
+    a:hover{
+        color: black;
+        background: white;
+    }
+    nav ul li{
+        display: inline;
+    
+ 
+    }
+    .section{
+        width: 100%;
+        background-image: url("./image/soccer-jersey-template-sport-tshirt-1160785.jpg");
+        background-position: center;
+        background-size: cover;
+        padding:300px;
+    
+    }
+    .section h2{
+        color: white;
+        font-size: 30px;
+        margin-left: 20px;
+        text-transform: capitalize;
+    }
+    .section p{
+        color: grey;
+        font-size: 15px;
+        margin-left: 20px;
+    }
+}

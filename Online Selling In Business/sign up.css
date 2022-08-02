@@ -1,0 +1,41 @@
+body{
+width: 100%;
+height: 100%;
+background-image: url("/image/Lighthouse-Jersey-Channel-Islands.webp");
+}
+.sign up-form { 
+    margin: 200px;
+    color: orangered;
+    border: radius 20px;
+    border: 10px solid yellow;
+    text-align: center;
+}
+
+ input{
+    border-top-left-radius: 15px;
+border-bottom-right-radius: 15px;
+height: 30px;
+text-align: center;
+
+
+}
+h1{
+
+    
+    color:yellow;
+}
+.sign-up-form input {
+    margin: left 600px;
+    border-top-left-radius: 15px;
+border-bottom-right-radius: 15px;
+height: 30px;
+}
+p a:hover{
+    color: black;
+    background-color: white;
+}
+
+
+
+    
+   
